@@ -1,0 +1,14 @@
+{
+	"name": "ignition",
+	"version": "1.0.0",
+	"description": "simple node server for testing infrastructure",
+	"main": "index.js",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"author": "Aline Bastos",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.18.1"
+	}
+}
